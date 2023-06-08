@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Shrey Shah
+title: @ShreyShahB
 
 # Your name to show in the footer
 author: Shrey Shah
@@ -20,11 +20,17 @@ author: Shrey Shah
 ###############################################
 
 navbar-links:
+  Papers:
+    - Google Scholar: "https://beautifuljekyll.com"
+    - PubMed: "https://www.markdowntutorial.com/"
+    - ORCID: "https://beautifuljekyll.com"
+    - Impactstory: "https://www.markdowntutorial.com/"
+    - Posters & Slides : "https://beautifuljekyll.com"
+  Online Presence:
+    - Google: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"   
+  Resume: "https://deanattali.com"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
